@@ -1,0 +1,6 @@
+{
+  "name": "SAC Enterprise",
+  "description": "Sistema de gestão de atendimento ao cliente com dashboard Kanban, relatórios e histórico de tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
