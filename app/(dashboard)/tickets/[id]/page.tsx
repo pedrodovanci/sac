@@ -13,6 +13,7 @@ const SETORES: Setor[] = [
   'Atendimento Médico',
   'Atendimento WhatsApp',
   'Atendimento Call Center',
+  'Agendamento de cirurgia',
   'Entrega de Exames',
   'Cantina',
   'Enfermagem',

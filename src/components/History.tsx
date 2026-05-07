@@ -53,6 +53,7 @@ export default function History({ tickets }: HistoryProps) {
     'Atendimento Médico',
     'Atendimento WhatsApp',
     'Atendimento Call Center',
+    'Agendamento de cirurgia',
     'Entrega de Exames',
     'Cantina',
     'Enfermagem',
